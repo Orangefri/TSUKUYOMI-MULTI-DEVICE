@@ -203,7 +203,7 @@ _Before Cloning It,Make Sure Get Session ID Via Pairing Or Scanning.Add Session 
 
 ```
 git clone https://github.com/<your_username>/TSUKUYOMI-MDULTI-DEVICE```
-```
+``
 cd TSUKUYOMI-MD
 ```
 ```
@@ -232,10 +232,8 @@ npm start
 
 # HOKAGE : [@5PHESIHLE](https://github.com/Orangefri)#
 
-# KAZEKAGE : [@TRISTAN](https://github.com/Tristan7122)#  TSUKUYOMI-MULTI-DEVICE
+# KAZEKAGE : [@TRISTAN](https://github.com/Tristan7122)# TSUKUYOMI-MULTI-DEVICE
 
 
 # TSUKUYOMI-MULTI-DEVICE
-
-
 
