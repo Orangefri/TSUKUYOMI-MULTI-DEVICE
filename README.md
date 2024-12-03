@@ -232,7 +232,7 @@ npm start
 
 # HOKAGE : [@5PHESIHLE](https://github.com/Orangefri)#
 
-# KAZEKAGE : [@TRISTAN](https://github.com/Tristan7122)#
+# KAZEKAGE : [@TRISTAN](https://github.com/Tristan7122)#  TSUKUYOMI-MULTI-DEVICE
 
 
 # TSUKUYOMI-MULTI-DEVICE
