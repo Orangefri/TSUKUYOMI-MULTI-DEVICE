@@ -32,7 +32,7 @@
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://www.instagram.com/orange_fri/profilecard/?igsh=ajRoZTNrbzU3MjNu" target="_blank">
+  <a aria-label="Join our chats" href="https://www.instagram.com/tsukuyomi_md/profilecard/?igsh=ajRoZTNrbzU3MjNu" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Follow-25D366?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
  
