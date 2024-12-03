@@ -45,7 +45,7 @@
 
   <p align="center"> Meet 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. TSUKUYOMI_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
-  <a href="https://github.com/Orangefri/TSUKUYOMI-MD/fork"><img title="𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫" src="https://img.shields.io/badge/FORK-𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE/fork"><img title="𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫" src="https://img.shields.io/badge/FORK-𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫-h?color=red&style=for-the-badge&logo=stackshare"></a>
 
 
  
@@ -57,7 +57,7 @@
 1. ***Get [`SESSION ID`](https://pair11-468460feed74.herokuapp.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 5.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be).***
-6.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Orangefri/TSUKUYOMI-MD)***
+6.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE)***
    
 7.  #### DEPLOY IN HEROKU 
 
@@ -127,7 +127,7 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE
+      git clone https://https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE
       cd TSUKUYOMI-MD 
       yarn install --network-concurrency 1 && npm install
       ```
@@ -202,8 +202,7 @@ sudo yarn global add pm2
 _Before Cloning It,Make Sure Get Session ID Via Pairing Or Scanning.Add Session ID And Owner Number In config.env And config.js.This Process Can Be Done In Fork Only.After That Clone The Fork And Execute Remaining Commands._
 
 ```
-git clone https://github.com/<your_username>/TSUKUYOMI-MD
-```
+git clone https://github.com/<your_username>/TSUKUYOMI-MDULTI-DEVICE```
 ```
 cd TSUKUYOMI-MD
 ```
@@ -233,7 +232,7 @@ npm start
 
 # HOKAGE : [@5PHESIHLE](https://github.com/Orangefri)#
 
-# KAZEKAGE : [@TRISTAN](https://github.com/Tristan7122)# TSUKUYOMI-MULTI-DEVICE
+# KAZEKAGE : [@TRISTAN](https://github.com/Tristan7122)#
 
 
 # TSUKUYOMI-MULTI-DEVICE
