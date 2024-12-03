@@ -1,6 +1,6 @@
 # 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫    #Itachi(V6)
 <p align="center">
-<a href="https://github.com/Orangefri/TSUKUYOMI-MD"><img title="Author" src="https://files.catbox.moe/qf4ipv.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE"><img title="Author" src="https://files.catbox.moe/qf4ipv.jpg?style=for-the-badge&logo=github"></a>
 
 ----------
 
@@ -21,19 +21,19 @@
 <br>
 
   <p align="center">
-<a href="https://github.com/Orangefri/TSUKUYOMI-MD/followers"><img title="Followers" src="https://img.shields.io/github/followers/TSUKUYOMI?color=blue&style=flat-square"></a>
-<a href="https://github.com/Orangefri/TSUKUYOMI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Orangefri/TSUKUYOMI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Orangefri/TSUKUYOMI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/https://github.com/Orangefri/TSUKUYOMI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Orangefri/TSUKUYOMI-MD/"><img title="Size" src="https://github.com/Orangefri/TSUKUYOMI-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/Orangefri/TSUKUYOMI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE/followers"><img title="Followers" src="https://img.shields.io/github/followers/TSUKUYOMI?color=blue&style=flat-square"></a>
+<a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Orangefri/TSUKUYOMI-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE/network/members"><img title="Forks" src="https://img.shields.io/github/forks/https://github.com/Orangefri/TSUKUYOMI-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE/"><img title="Size" src="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE?style=flat-square&color=green"></a>
+<a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://t.me/TSUKUYOMI_SUPPORT" target="_blank">
-    <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a aria-label="Join our chats" href="https://www.instagram.com/orange_fri/profilecard/?igsh=ajRoZTNrbzU3MjNu" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
  
 
