@@ -77,7 +77,7 @@ module.exports = {
   author : process.env.PACK_AUTHER|| "AnbuBlackOps",
   packname: process.env.PACK_NAME || "Mangekyou Sharingan",
   botname : process.env.BOT_NAME  || "𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫",
-  ownername:process.env.OWNER_NAME|| "𝑰𝑻𝑨𝑪𝑯𝑰",
+  ownername:process.env.OWNER_NAME|| "AnbuBlackOp1",
 
 
   errorChat : process.env.ERROR_CHAT || "",
