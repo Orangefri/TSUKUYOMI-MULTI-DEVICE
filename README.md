@@ -54,7 +54,7 @@
 ## Deployment Methods
 ---
 
-1. ***Get [`SESSION ID`](https://pair11-468460feed74.herokuapp.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 5.  ***LEARN HOW TO DEPLOY WITH [`TERMUX`] | [`Tutorial`](https://youtube.com/@hoekagetech).***
 6.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE)***
