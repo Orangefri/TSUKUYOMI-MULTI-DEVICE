@@ -2,6 +2,11 @@
 <p align="center">
 <a href="https://github.com/Orangefri/TSUKUYOMI-MULTI-DEVICE"><img title="Author" src="https://files.catbox.moe/qf4ipv.jpg?style=for-the-badge&logo=github"></a>
 
+
+<div align="center">
+<a href="https://www.instagram.com/techgod143/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel;PROGRAM+By+TECH+GOD" alt="Typing SVG" /></a>
+  
+
 ----------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
